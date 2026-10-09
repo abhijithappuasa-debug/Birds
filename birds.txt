@@ -1,0 +1,17 @@
+1
+
+name : Peackock
+
+colur : blue
+
+type : domestic
+
+2 
+
+name : parrot
+
+colour : green
+
+type : domestic
+
+
